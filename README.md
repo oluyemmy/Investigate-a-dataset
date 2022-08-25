@@ -37,5 +37,14 @@ Brainstorm some questions you could answer using the data set you chose, then st
 
 Try and suggest questions that promote looking at relationships between multiple variables. You should aim to analyze at least one dependent variable and three independent variables in your investigation. Make sure you use NumPy and pandas where they are appropriate!
 
+**Selected dataset**: [No-show appointments](https://www.kaggle.com/joniarroba/noshowappointments)
+
+**Datset Description**: The Brazilian public health system, termed in Portuguese as SUS for Unified Health System, is one of the world's largest with government spending amounting to almost 9% of GDP. Its operation, however, is not uniform, and residents in different parts of the country have differing ideas of quality. The no-show appointments dataset will be used in this project, which contains information from 100k medical visits in Brazil and is focused on the subject of whether or not patients show up for their appointments, as well as a collection of patient attributes in each columns. Some of the key variables in th dataset are:
+
+* ScheduledDay: This represent the date that each patients booked for medical check up
+* Neighbourhood: This represent the area each patients are residing within the region
+* Scholarship: This represent information about if a patient was sponspored for an appointment or otherwise
+* No_show: This the class or response variable which shows if a patient either shows up for medical appointment or not
+
 ## Step Four - Share Your Findings
 Once you have finished analyzing the data, create a report that shares the findings you found most interesting. If you use a Jupyter notebook, share your findings alongside the code you used to perform the analysis. Make sure that your report text is contained in Markdown cells to clearly distinguish your comments and findings from your code work. You should also feel free to use other tools and software to craft your final report, but make sure that you can submit your report as an HTML or PDF file so that it can be opened easily.
